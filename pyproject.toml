@@ -5,7 +5,7 @@ requires-python = ">=3.11"
 
 dependencies = [
     "Django==4.1.10",
-    "ruff==0.3.1",
+    "ruff==0.3.3",
     "black==24.1.0",
 ]
 
